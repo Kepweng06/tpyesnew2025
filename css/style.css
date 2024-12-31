@@ -21,7 +21,7 @@
 .center .top{
   width: 60%;
   position: relative;
-  margin: 49% auto 0;
+  margin: 61% auto 0;
 }
 .center .top p{
 	position: absolute;
@@ -56,22 +56,20 @@
 	padding-top: 20px;
 }
 .top22{
-	width: 96%;
-	margin: 2rem auto 1rem;
+	width: 100%;
+	margin-top: 30px;
 }
 .top22 img{
 	width: 100%;
 }
 .top2{
-	width: 80%;
-	margin: 30px auto 0;
+	width: 100%;
 }
 .top2 img{
 	width: 100%;
 }
 .top3{
-	width: 98%;
-	margin: 10px auto 0;
+	width: 100%;
 }
 .top3 img{
 	width: 100%;
