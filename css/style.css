@@ -43,7 +43,7 @@
   padding-top: 0px;
 }
 .center .downBtn img{
-width: 100%;
+width: 90%;
   display: block;
   text-align: center;
   margin: 0 auto;
@@ -138,10 +138,23 @@ width: 100%;
 .kf img{
 	width: 100%;
 }
-.fb{
+.tg{
 	position: fixed;
 	right: 6%;
 	top: 9%;
+	bottom: 0;
+	margin:5rem auto;
+	width: 3rem;
+	height: 3rem;
+	z-index: 999;
+}
+.tg img{
+	width: 100%;
+}
+.fb{
+	position: fixed;
+	right: 6%;
+	top: 18%;
 	bottom: 0;
 	margin:5rem auto;
 	width: 3rem;
@@ -154,7 +167,7 @@ width: 100%;
 .wa{
 	position: fixed;
 	right: 6%;
-	top: 18%;
+	top: 28%;
 	bottom: 0;
 	margin:5rem auto;
 	width: 3rem;
@@ -167,7 +180,7 @@ width: 100%;
 .times{
 	position: fixed;
 	right: 3.7%;
-	top: 18%;
+	top: 28%;
 	bottom: 0;
 	margin:6.5rem auto;
 	width: 6rem;
@@ -322,7 +335,7 @@ width: 100%;
 		width: 3rem;
 		height: 3rem;
 	}
-	.fb{
+	.tg{
 		position: fixed;
 		right: 5.8%;
 		top: 5.5%;
@@ -331,7 +344,7 @@ width: 100%;
 		width: 3rem;
 		height: 3rem;
 	}
-	.wa{
+	.fb{
 		position: fixed;
 		right: 5.8%;
 		top: 10.85%;
@@ -340,10 +353,19 @@ width: 100%;
 		width: 3rem;
 		height: 3rem;
 	}
+	.wa{
+		position: fixed;
+		right: 5.8%;
+		top: 15.85%;
+		bottom: 0;
+		margin:15rem auto;
+		width: 3rem;
+		height: 3rem;
+	}
 	.times{
 		position: fixed;
 		right: 1%;
-		top: 10.85%;
+		top: 16.85%;
 		bottom: 0;
 		margin:16.6rem auto;
 		width: 6rem;
