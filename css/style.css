@@ -332,8 +332,8 @@ width: 90%;
 	text-align: center; 
 	width: 80%; 
 	margin: 10px auto; 
-	font-size-adjust: 0.5;
-	font-size-adjust: from-font;
+	/* font-size-adjust: 0.5;
+	font-size-adjust: from-font; */
   }
 @keyframes moves2 {
   0%{
