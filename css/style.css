@@ -14,7 +14,7 @@
   min-height: 1000px;
   margin: 0 auto;
   position: relative;
-  background: url("../img/bg.jpg")no-repeat top center/100% auto,#130E0A;
+  background: url("../img/bg.jpg")no-repeat top center/100% auto,#76176b;
   padding-bottom: 6rem;
   overflow-x: hidden;
 }
@@ -293,6 +293,9 @@ width: 100%;
   }
 }
 @media only screen and (max-width: 768px) {
+	.zb {
+		margin-bottom: 60px;
+	}
 	.center, .footbtn {
 	  width: 100%;
 	}
