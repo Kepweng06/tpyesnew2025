@@ -277,7 +277,8 @@ width: 100%;
 	text-align: center; 
 	width: 80%; 
 	margin: 10px auto; 
-	font-size: 20px
+	font-size-adjust: 0.5;
+	font-size-adjust: from-font;
   }
 @keyframes moves2 {
   0%{
