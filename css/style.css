@@ -328,7 +328,7 @@ width: 90%;
 	}
 	.kf{
 		position: fixed;
-		right: 5.8%;
+		right: 5%;
 		top: 0;
 		bottom: 0;
 		margin:15rem auto;
@@ -337,8 +337,8 @@ width: 90%;
 	}
 	.tg{
 		position: fixed;
-		right: 5.8%;
-		top: 5.5%;
+		right: 5%;
+		top: 5.85%;
 		bottom: 0;
 		margin:15rem auto;
 		width: 3rem;
@@ -346,8 +346,8 @@ width: 90%;
 	}
 	.fb{
 		position: fixed;
-		right: 5.8%;
-		top: 10.85%;
+		right: 5%;
+		top: 11.85%;
 		bottom: 0;
 		margin:15rem auto;
 		width: 3rem;
@@ -355,8 +355,8 @@ width: 90%;
 	}
 	.wa{
 		position: fixed;
-		right: 5.8%;
-		top: 15.85%;
+		right: 5%;
+		top: 16.85%;
 		bottom: 0;
 		margin:15rem auto;
 		width: 3rem;
@@ -365,7 +365,7 @@ width: 90%;
 	.times{
 		position: fixed;
 		right: 1%;
-		top: 16.85%;
+		top: 17.85%;
 		bottom: 0;
 		margin:16.6rem auto;
 		width: 6rem;
